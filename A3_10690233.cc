@@ -5,13 +5,13 @@ using namespace std;
 int score;
 int main() {
 	
-	cout << "Please enter your exam score to see your score:" << endl;
+	cout << "Please enter your exam score to see your grade:" << endl;
 
 	cin >> score;
 
 if (score >= 80 && score <= 100){
 
-	cout << "You got an A witth 12 grade points (GPT)." << endl;
+	cout << "You got an A with 12 grade points (GPT)." << endl;
 
 }
 
